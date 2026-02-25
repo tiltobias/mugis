@@ -59,7 +59,7 @@ function App() {
       <header className="mainHeader">
 
         <div className="logo">
-          <a href="https://github.com/tiltobias/muGIS/" target="_blank" rel="noopener noreferrer">
+          <a href="https://github.com/tiltobias/mugis/" target="_blank" rel="noopener noreferrer">
             <img src="muGIS_banner.svg" alt="muGIS logo" />
           </a>
         </div>

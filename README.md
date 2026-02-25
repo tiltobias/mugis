@@ -34,8 +34,7 @@ This project is built using:
 
 The app is publicly available at:
 
-- 🔗 [mugis.no](https://mugis.no)
-- 🔗 [GitHub Pages](https://tiltobias.github.io/muGIS)
+- 🔗 [GitHub Pages](https://tiltobias.github.io/mugis)
 
 ## 📚 Tutorial Task
 
@@ -52,7 +51,7 @@ As part of the assignment, we performed a spatial analysis to identify suitable 
 To run the project locally:
 
 ```bash
-git clone https://github.com/tiltobias/muGIS.git
+git clone https://github.com/tiltobias/mugis.git
 cd muGIS
 yarn
 yarn dev

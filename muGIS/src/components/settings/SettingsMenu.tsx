@@ -127,7 +127,7 @@ const SettingsMenu:FC<SettingsMenuProps> = () => {
             </li>
             <li>
               <a 
-                href="https://github.com/tiltobias/muGIS/blob/main/docs/tutorial.md"
+                href="https://github.com/tiltobias/mugis/blob/main/docs/tutorial.md"
                 target="_blank"
                 rel="noopener noreferrer"
               >
